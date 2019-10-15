@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="e061ac5bfcd825eb1f33d30b974df79546114460" datatype="html">
+        <source>Localization</source>
+        <target>Localization fr</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/nav-menu/nav-menu.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <target>Home fr</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/nav-menu/nav-menu.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d718ee3de035ebf939f91baf92aa1a4420a809db" datatype="html">
+        <source>Counter</source>
+        <target>Counter fr</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/nav-menu/nav-menu.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="beb346dfecb44d3d50a9062c94ccd844de9770bf" datatype="html">
+        <source>Fetch data</source>
+        <target>Fetch data fr</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/nav-menu/nav-menu.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
