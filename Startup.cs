@@ -19,7 +19,7 @@ namespace Localization
         }
 
         public IConfiguration Configuration { get; }
-
+ 
 
         public void ConfigureServices(IServiceCollection services)
         {
